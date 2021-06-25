@@ -1,0 +1,18 @@
+---
+title: "Machine Learning"
+author: "Nicholas Lambert"
+date: "6/25/2021"
+output: 
+  pdf_document: 
+    latex_engine: xelatex
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, scipen = 999)
+```
+
+# Definition
+
+“The field of machine learning is concerned with the question of how to construct computer programs that automatically improve with experience.”
+
+Mitchell, T. (1997). Machine Learning. McGraw Hill.
