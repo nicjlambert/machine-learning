@@ -18,12 +18,15 @@ knitr::opts_chunk$set(echo = TRUE, scipen = 999)
 # Origin
 
 Computer Science:
+
 * how to manually program computers to solve tasks
 
 Statistics:
+
 * what conclusions can be inferred from data
 
 Machine Learning:
+
 * intersection of computer science and statistics
 * how to get computers to program themselves from experience plus some initial structure
 * effective data capture, store, index, retrieve and merge
@@ -33,10 +36,12 @@ Machine Learning:
 Machine learning approaches are divided into two main types
 
 * **Supervised**
+
     * training of a “predictive” model from data
     * one (or more) attribute of the dataset is used to “predict” another attribute e.g., classification
 
 * **Unsupervised**
+
     * discovery of descriptive patterns in data
     * commonly used in data mining e.g., clustering
     
